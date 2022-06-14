@@ -5,7 +5,7 @@ This is a real-time open board web application.
 
 ## Authors
 
-- [@RoshanKrSharma](https://github.com/RoshanKrSharma)
+- https://github.com/PrakashSarangi/
 
 
 ## Demo
