@@ -8,9 +8,6 @@ This is a real-time open board web application.
  - [@PrakashSarangi](https://github.com/PrakashSarangi)
 
 
-## Demo
-
-https://youtu.be/WwjSBrRPmv8
 
 
 ## Deployment
